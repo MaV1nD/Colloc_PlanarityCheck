@@ -1,0 +1,121 @@
+{
+  "edgeCount": 10,
+  "edgeList": [
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 90896,
+      "target": 92754,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 90108,
+      "target": 92754,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 89370,
+      "target": 92754,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 88478,
+      "target": 92754,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 89370,
+      "target": 90108,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 88478,
+      "target": 90108,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 90896,
+      "target": 90108,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 90896,
+      "target": 89370,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 88478,
+      "target": 89370,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 90896,
+      "target": 88478,
+      "weight": 0
+    }
+  ],
+  "id": "4636d1ee-4fac-4ccd-b775-8f074aaee7ee",
+  "isDirect": false,
+  "isNamed": false,
+  "vertexCount": 5,
+  "vertexList": [
+    {
+      "color": "GRAY",
+      "id": 88478,
+      "label": "1",
+      "weight": 0,
+      "xCoordinate": 385,
+      "yCoordinate": 0
+    },
+    {
+      "color": "GRAY",
+      "id": 89370,
+      "label": "2",
+      "weight": 0,
+      "xCoordinate": 118,
+      "yCoordinate": 366
+    },
+    {
+      "color": "GRAY",
+      "id": 90108,
+      "label": "3",
+      "weight": 0,
+      "xCoordinate": -312,
+      "yCoordinate": 226
+    },
+    {
+      "color": "GRAY",
+      "id": 90896,
+      "label": "4",
+      "weight": 0,
+      "xCoordinate": -312,
+      "yCoordinate": -227
+    },
+    {
+      "color": "GRAY",
+      "id": 92754,
+      "label": "5",
+      "weight": 0,
+      "xCoordinate": 118,
+      "yCoordinate": -367
+    }
+  ]
+}

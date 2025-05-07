@@ -1,2 +1,0 @@
-# Colloc_PlanarityCheck
-

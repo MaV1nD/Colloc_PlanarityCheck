@@ -1,0 +1,57 @@
+{
+  "edgeCount": 3,
+  "edgeList": [
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 32236,
+      "target": 30132,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 27998,
+      "target": 30132,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 32236,
+      "target": 27998,
+      "weight": 0
+    }
+  ],
+  "id": "9ea28274-cdb5-4df0-ba2e-6aa3a44bceb1",
+  "isDirect": false,
+  "isNamed": true,
+  "name": "3test",
+  "vertexCount": 3,
+  "vertexList": [
+    {
+      "color": "GRAY",
+      "id": 27998,
+      "label": "1",
+      "weight": 0,
+      "xCoordinate": 300,
+      "yCoordinate": 0
+    },
+    {
+      "color": "GRAY",
+      "id": 30132,
+      "label": "2",
+      "weight": 0,
+      "xCoordinate": 0,
+      "yCoordinate": 0
+    },
+    {
+      "color": "GRAY",
+      "id": 32236,
+      "label": "3",
+      "weight": 0,
+      "xCoordinate": 600,
+      "yCoordinate": -100
+    }
+  ]
+}

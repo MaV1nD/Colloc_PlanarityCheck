@@ -1,0 +1,114 @@
+{
+  "edgeCount": 9,
+  "edgeList": [
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 91088,
+      "target": 90420,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 90748,
+      "target": 90420,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 91864,
+      "target": 90420,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 91446,
+      "target": 90420,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 91446,
+      "target": 91088,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 91864,
+      "target": 91088,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 90748,
+      "target": 91088,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 91864,
+      "target": 90748,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 91446,
+      "target": 90748,
+      "weight": 0
+    }
+  ],
+  "id": "aa103243-ff3b-451f-9d37-9c9a5f1b6460",
+  "isDirect": false,
+  "isNamed": false,
+  "vertexCount": 5,
+  "vertexList": [
+    {
+      "color": "GRAY",
+      "id": 90420,
+      "label": "1",
+      "weight": 0,
+      "xCoordinate": 403,
+      "yCoordinate": 166
+    },
+    {
+      "color": "GRAY",
+      "id": 90748,
+      "label": "2",
+      "weight": 0,
+      "xCoordinate": 563,
+      "yCoordinate": 657
+    },
+    {
+      "color": "GRAY",
+      "id": 91088,
+      "label": "3",
+      "weight": 0,
+      "xCoordinate": 283,
+      "yCoordinate": 554
+    },
+    {
+      "color": "GRAY",
+      "id": 91446,
+      "label": "4",
+      "weight": 0,
+      "xCoordinate": 739,
+      "yCoordinate": 205
+    },
+    {
+      "color": "GRAY",
+      "id": 91864,
+      "label": "5",
+      "weight": 0,
+      "xCoordinate": 863,
+      "yCoordinate": 527
+    }
+  ]
+}
