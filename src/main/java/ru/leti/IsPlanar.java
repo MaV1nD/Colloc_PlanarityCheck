@@ -9,7 +9,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 /**
- * Рекурсивный алгоритм проверки планарности с мемоизацией (улучшенный Rabin–Scott),
+ * Рекурсивный алгоритм проверки планарности (улучшенный Rabin–Scott),
  * адаптированный для работы с несвязными графами.
  */
 public class IsPlanar implements GraphProperty {
