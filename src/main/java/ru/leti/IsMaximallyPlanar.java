@@ -10,8 +10,6 @@ import java.util.stream.Collectors;
 
 /**
  * Проверка максимальной планарности графа:
- * для каждой пары несмежных вершин пытаемся добавить ребро и проверяем,
- * нарушает ли оно планарность.
  */
 public class IsMaximallyPlanar implements GraphProperty {
 
