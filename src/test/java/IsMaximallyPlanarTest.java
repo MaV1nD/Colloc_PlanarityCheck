@@ -10,7 +10,7 @@ public class IsMaximallyPlanarTest {
     @Test
     public void IsMaximallyPlanarTest() throws FileNotFoundException {
         IsMaximallyPlanar isMaxPlanar = new IsMaximallyPlanar();
-        var graph1 = FileLoader.loadGraphFromJson("src/test/resources/notMax1.json");
+        var graph1 = FileLoader.loadGraphFromJson("src/test/resources/graph-data-1746817699370.json");
 
         assertThat(isMaxPlanar.run(graph1)).isTrue();
     }
