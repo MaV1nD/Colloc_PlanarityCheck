@@ -1,23 +1,16 @@
 {
-  "edgeCount": 2,
+  "edgeCount": 1,
   "edgeList": [
     {
       "color": "GRAY",
       "label": "",
-      "source": 1,
-      "target": 2,
-      "weight": 0
-    },
-    {
-      "color": "GRAY",
-      "label": "",
-      "source": 1,
-      "target": 2,
+      "source": 2,
+      "target": 1,
       "weight": 0
     }
   ],
-  "id": "8cce7901-95df-4bf9-b559-1583516d274d",
-  "isDirect": true,
+  "id": "191d0c97-90f7-44eb-80f1-8e615ac6c7c4",
+  "isDirect": false,
   "isNamed": false,
   "vertexCount": 2,
   "vertexList": [
@@ -26,16 +19,16 @@
       "id": 1,
       "label": "1",
       "weight": 0,
-      "xCoordinate": 0,
-      "yCoordinate": 0
+      "xCoordinate": 719,
+      "yCoordinate": 389
     },
     {
       "color": "GRAY",
       "id": 2,
       "label": "2",
       "weight": 0,
-      "xCoordinate": 129,
-      "yCoordinate": 148
+      "xCoordinate": 537,
+      "yCoordinate": 387
     }
   ]
 }
