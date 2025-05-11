@@ -51,6 +51,11 @@ public class IsPlanar implements GraphProperty {
         int n = verts.size();       // число вершин
         int m = edges.size();       // число рёбер
 
+        // Пустой набор рёбер => граф несвязный, но любой лес планарен
+        if (m == 0) {
+            return cachePut(key, true);
+        }
+
         // Быстрые эвристические проверки:
         if (n < 3) {
             // Менее чем 3 вершины всегда планарен
